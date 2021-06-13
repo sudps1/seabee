@@ -1,0 +1,19 @@
+.carousel{
+    margin: 12%;
+    margin-top: 5px;
+
+}
+.navbar{
+    
+    position: absolute;
+    width: 100%;
+    /* z-index: 50; */
+    border-bottom: 2px solid rgba(255, 255, 255, 0.3) ;
+    
+}
+/* .card{
+    margin: 10%;
+} */
+body{
+    background-color: black !important;
+}
